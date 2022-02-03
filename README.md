@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andersontyree
+- 👀 I’m interested in learning web development 
+- 🌱 I’m currently learning python, html and css
+- 💞️ I’m looking to collaborate on learning projects
+- 📫 How to reach me ... andersot5845@gmail.com
